@@ -1,1 +1,2 @@
-# jeweleryDesign
+# product-scala
+Team collaboration
